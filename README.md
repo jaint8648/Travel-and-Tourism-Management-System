@@ -28,10 +28,6 @@ To get started with the Travel and Tourism Management System:
 
 Contributions are welcome! Whether it's bug fixes, feature enhancements, or new ideas, we'd love to hear from you. Feel free to submit bug reports, feature requests, or pull requests to help improve the Travel and Tourism Management System.
 
-## Contributing:
-
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please submit an issue or create a pull request.
-
 ## Contact:
 
 For any inquiries or support, please contact jaint8648@gmail.com.
