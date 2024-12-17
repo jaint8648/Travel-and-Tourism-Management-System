@@ -33,3 +33,7 @@ Contributions are welcome! Whether it's bug fixes, feature enhancements, or new 
 For any inquiries or support, please contact jaint8648@gmail.com.
 
 Thank you for using the Travel and Tourism Management System! We hope you enjoy using it.
+
+## License
+
+This project is licensed under the MIT License.
